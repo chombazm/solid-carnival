@@ -1,0 +1,29 @@
+{
+  "name": "gbc",
+  "version": "1.0.0",
+  "description": "Get book category from bisc schema subject code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chombazm/solid-carnival.git"
+  },
+  "keywords": [
+    "bisc",
+    "schema",
+    "categorize",
+    "book",
+    "book",
+    "code",
+    "subject",
+    "code"
+  ],
+  "author": "chomba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chombazm/solid-carnival/issues"
+  },
+  "homepage": "https://github.com/chombazm/solid-carnival#readme"
+}
